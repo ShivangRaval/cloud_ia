@@ -33,7 +33,6 @@ angular2html
 </head>
 <body>
     <h1>Todo List</h1>
-    <h3>by 21BCP289</h3>
     <form action="/add" method="POST">
         <input type="text" name="task" placeholder="Enter task">
         <button type="submit">Add Task</button>
